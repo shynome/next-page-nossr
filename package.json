@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/shynome/next-page-nossr#readme",
   "devDependencies": {
-    "next": "9.*"
+    "next": "11.*"
   }
 }
